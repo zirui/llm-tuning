@@ -1,0 +1,9 @@
+torch==2.0
+git+https://github.com/huggingface/transformers.git
+git+https://github.com/huggingface/peft.git
+datasets
+loralib
+sentencepiece
+accelerate
+bitsandbytes
+gradio
