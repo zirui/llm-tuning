@@ -1,7 +1,4 @@
-#!/usr/bin/env python
-# coding=utf-8
-
-# coding: utf8
+# coding:utf8
 
 import logging
 import math
@@ -285,3 +282,4 @@ def _mp_fn(index):
 
 if __name__ == "__main__":
     main()
+
